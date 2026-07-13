@@ -2,6 +2,15 @@
 
 Interactive quiz companions for each notebook — click **Try it** to open the live quiz, no install required.
 
+## Credits
+
+The notebooks in this repo are split (Day 1–30) from the original tutorial:
+
+**[qiskit_2x_certification_exam_tutorial](https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial)**
+by [kibrahim757](https://github.com/kibrahim757) and [alanspace](https://github.com/alanspace)
+
+All credit for the original notebook content goes to them. This repo reorganizes that material day-by-day and adds an interactive self-check quiz for each one.
+
 ## 🎯 Live Quizzes
 
 ### Day 1–9
