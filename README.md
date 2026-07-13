@@ -37,7 +37,7 @@ All credit for the original notebook content goes to them. This repo reorganizes
 | 13 | [DAY_13.ipynb](Notebooks/Day%2010-19/DAY_13.ipynb) | QuantumCircuit Anatomy | [▶ Try it](https://day13quiz.netlify.app/) |
 | 14 | [DAY_14.ipynb](Notebooks/Day%2010-19/DAY_14.ipynb) | Control Flow & Dynamic Circuits | [▶ Try it](https://day14quiz.netlify.app/) |
 | 15 | [DAY_15.ipynb](Notebooks/Day%2010-19/DAY_15.ipynb) | Metrics, Scheduling & Modifiers | [▶ Try it](https://day15quiz.netlify.app/) |
-| 16 | [DAY_16.ipynb](Notebooks/Day%2010-19/DAY_16.ipynb) | — | [▶ Try it](https://day16quiz.netlify.app/) |
+| 16 | [DAY_16.ipynb](Notebooks/Day%2010-19/DAY_16.ipynb) | Basic Cicruit Creation and Text visualization | [▶ Try it](https://day16quiz.netlify.app/) |
 | 17 | [DAY_17.ipynb](Notebooks/Day%2010-19/DAY_17.ipynb) | Results & States | [▶ Try it](https://day17quiz.netlify.app/) |
 | 18 | [DAY_18.ipynb](Notebooks/Day%2010-19/DAY_18.ipynb) | Dynamic Circuits | [▶ Try it](https://day18quiz.netlify.app/) |
 | 19 | [DAY_19.ipynb](Notebooks/Day%2010-19/DAY_19.ipynb) | Parameterized Circuits | [▶ Try it](https://day19quiz.netlify.app/) |
